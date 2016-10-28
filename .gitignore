@@ -1,0 +1,5 @@
+dotNETInspectorPortable.exe
+App/dotNETInspector/*
+Data/
+Thumbs.ini
+Desktop.ini
